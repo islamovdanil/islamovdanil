@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-202B28?style=for-the-badge&logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-202B28?style=for-the-badge&logo=kubernetes)  
 ![Ansible](https://img.shields.io/badge/ansible-202B28?style=for-the-badge&logo=ansible)  
-![Github Actions](https://img.shields.io/badge/GitHub Actions-202B28?style=for-the-badge&logo=githubactions)  
+![Github Actions](https://img.shields.io/badge/GitHubActions-202B28?style=for-the-badge&logo=githubactions)  
 
 
 ### Контакты
