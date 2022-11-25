@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 # Исламов Данил  
 #### Рассмотрю варианты удаленной работы
 ###### Системный администратор, развивающийся и стремящийся в DevOps  
@@ -29,10 +27,12 @@ Here are some ideas to get you started:
 ![1c](https://img.shields.io/badge/1c-Администрирование-202B28?style=for-the-badge&logo=1c)  
 ![Сети](https://img.shields.io/badge/network-202B28?style=for-the-badge&logo=network)  
 
+
 ### Изучаю
 ![Docker](https://img.shields.io/badge/Docker-202B28?style=for-the-badge&logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-202B28?style=for-the-badge&logo=kubernetes)  
 ![Ansible](https://img.shields.io/badge/ansible-202B28?style=for-the-badge&logo=ansible)  
+![Github Actions](https://img.shields.io/badge/GitHub Actions-202B28?style=for-the-badge&logo=githubactions)  
 
 
 ### Контакты
